@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there 👋 Iam Adhin Shaji</h1>
 
 ###
 
@@ -72,6 +72,6 @@
 
 ###
 
-<h3 align="left">👋 Hi, I'm Adhin Shaji, a frontend developer passionate about crafting seamless and visually striking user experiences. Proficient in HTML, CSS, and JavaScript, I specialize in frameworks like React.js, where I've brought to life projects such as "Awesome Website" with innovative features and a keen eye for design. In my repertoire is also a responsive portfolio, showcasing my commitment to user-centric development. Feel free to connect with me via email at your.adhinshaji7@gmail.comor check out my work on https://in.linkedin.com/in/adhin-shaji. Let's build something amazing together! 🚀</h3>
+<h3 align="left">👋 Hi, I'm Adhin Shaji, a frontend developer passionate about crafting seamless and visually striking user experiences. Proficient in HTML, CSS, and JavaScript, I specialize in frameworks like React.js, where I've brought to life projects such as "Awesome Website" with innovative features and a keen eye for design. In my repertoire is also a responsive portfolio, showcasing my commitment to user-centric development. Feel free to connect with me via email at your. adhinshaji7@gmail .comor check out my work on https://in.linkedin.com/in/adhin-shaji. Let's build something amazing together! 🚀</h3>
 
 ###

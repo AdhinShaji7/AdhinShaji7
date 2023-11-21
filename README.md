@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">i <br><br>- 🔭 I’m working as Frontend Developer<br>- 📚 I'm currently learning javascript</p>
+<p align="left"> <br><br>- 🔭 I’m working as Frontend Developer<br>- 📚 I'm currently learning javascript</p>
 
 ###
 

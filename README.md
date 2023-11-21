@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 Iam Adhin Shaji</h1>
+<h1 align="center">hey there 👋 I'm Adhin Shaji</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm  Adhin Shaji <br><br>- 🔭 I’m working as Frontend Developer<br>- 📚 I'm currently learning javascript</p>
+<p align="left">i <br><br>- 🔭 I’m working as Frontend Developer<br>- 📚 I'm currently learning javascript</p>
 
 ###
 

@@ -22,6 +22,12 @@ I'm a passionate frontend developer dedicated to creating beautiful and user-fri
 - Photoshop
 - PHP
 - Python
+- C#
+- C++
+- Java
+- JavaScript
+- PowerShell
+- Shell scripting
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=adhinshaji7&show_icons=true&locale=en&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adhinshaji7&show_icons=true&locale=en)

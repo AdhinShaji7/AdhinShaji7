@@ -3,7 +3,7 @@
 ## About Me
 I'm a passionate frontend developer dedicated to creating beautiful and user-friendly interfaces. Currently delving into the world of Flask, I'm excited to share my journey and projects, including the Skill Swapping Network Android Applications.
 
-- 🌱 I’m currently learning Flask
+- 🌱 I’m currently learning Python
 - 📫 Reach me at adhinshaji7@gmail.com.
 
 ## Connect with Me

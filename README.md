@@ -11,7 +11,6 @@ I'm a passionate frontend developer dedicated to creating beautiful and user-fri
 
 ## Languages and Tools
 - Android
-- Microsoft Azure
 - Bash
 - CSS3
 - Flask
@@ -40,4 +39,7 @@ Skill Swapping Network is a platform fostering skill exchange in a user-friendly
 
 ### On-Road Vehicle Breakdown Assistance and Parts Finder
 Our web application offers a seamless solution for on-road vehicle breakdowns. Whether facing a flat tire, engine trouble, or needing specific spare parts, our platform assists you in real-time.
+
+###   Personal Website 
+
 

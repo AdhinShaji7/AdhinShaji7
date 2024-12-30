@@ -1,6 +1,3 @@
-Here’s a more polished and professional version of your README:
-
----
 
 # **Hi there, I'm Adhin Shaji!** 👋
 

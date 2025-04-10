@@ -1,6 +1,3 @@
-Here’s an updated version with all your projects added, along with your GitHub streak!
-
----
 
 # **Hi! I'm Adhin Shaji** 👋
 

@@ -1,84 +1,67 @@
+Adhin Shaji
 
-# **Hi! I'm Adhin Shaji** 👋
+Profile
 
-## **About Me**  
-I'm a **frontend developer** with a passion for creating sleek, responsive, and intuitive web and mobile interfaces. My focus is on **React** and **Flask**, though I love exploring new frameworks and tools that help build better applications. Currently, I'm expanding my knowledge of **Python** and deepening my skills in **backend development**, while working on exciting projects like the **Skill Swapping Network Android Application**.
+I am a frontend developer with a strong foundation in building scalable, high-performance web and mobile applications. My current work focuses on React, where I develop modern user interfaces, architect reusable components, and integrate complex APIs.
 
-💡 My enthusiasm for problem-solving drives me to deliver elegant solutions that enhance user experiences and simplify complex challenges. I thrive in collaborative environments where innovative ideas can come to life.
+I'm also expanding my capabilities in backend development using Flask (Python), and working with Android (Java) to bridge web and mobile technologies. I believe in writing clean, maintainable code and building solutions that are both functional and intuitive.
 
----
+Current Focus
 
-## **What I'm Currently Learning**  
-- 🌱 Deepening my understanding of **Python** and **Flask** for backend development.  
-- 🚀 Diving into **Android Development** and working on improving cross-platform development skills.  
+- Building production-ready frontend interfaces with React
+- Developing backend services using Flask and Python
+- Designing and delivering Android-based applications
+- Learning advanced architectural patterns and improving scalability
 
----
+Key Projects
 
-## **Reach Out to Me**  
-📧 **Email**: [adhinshaji7@gmail.com](mailto:adhinshaji7@gmail.com)  
-🌐 **LinkedIn**: [linkedin.com/in/adhinshaji7](https://linkedin.com/in/adhinshaji7)
+Skill Swapping Network – Android Application  
+A mobile platform connecting users who want to exchange skills and collaborate on learning.  
+Tech Stack: Android, Java, MySQL  
+Key Features: User profiles, chat system, skill categories
 
----
+On-Road Vehicle Breakdown Assistance Platform  
+A web application that connects stranded users with nearby mechanics and suppliers in real-time.  
+Tech Stack: Flask, Python, MySQL, JavaScript  
+Key Features: Location tracking, live requests, inventory search
 
-## **Skills & Tools**  
-I work with a diverse range of technologies to create seamless, high-performing solutions:  
-- **Frontend:** HTML5, CSS3, JavaScript, React  
-- **Backend:** Flask, Python, MySQL, PHP  
-- **Mobile:** Android Development, Java  
-- **Version Control:** Git, GitHub  
-- **Scripting:** Bash, PowerShell, Shell Scripting  
-- **Other Tools:** Photoshop, Linux, C++, C#  
+Honey Dew – Product Website for Nannari Sarbath Syrup  
+An informational and promotional website for a traditional herbal drink product.  
+Tech Stack: HTML, CSS, JavaScript, PHP  
+Key Features: Product information, ordering interface, customer testimonials
 
----
+E-Commerce Web Platform  
+A complete online shopping experience with categories, product filtering, and cart functionality.  
+Tech Stack: React, PHP, MySQL
 
-## **GitHub Stats**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=adhinshaji7&show_icons=true&locale=en&layout=compact&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adhinshaji7&show_icons=true&locale=en&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adhinshaji7&theme=radical)
+Personal Portfolio Website  
+A modern, responsive portfolio built to showcase my skills and past work.  
+Tech Stack: React, HTML, CSS
 
----
+Technical Stack
 
-## **Highlighted Projects**  
+Frontend: React, JavaScript, HTML5, CSS3  
+Backend: Flask, Python, PHP, MySQL  
+Mobile: Android (Java)  
+DevOps & Tools: Git, GitHub, Firebase, Linux, Bash, PowerShell  
+Additional: Adobe Photoshop, Shell Scripting, C++, C#
 
-### **1. Skill Swapping Network Android App**  
-A platform that connects users looking to exchange skills and collaborate on learning. From coding to design, this app facilitates knowledge-sharing among individuals eager to grow and contribute.  
-- **Tech Stack:** Android, Java, MySQL  
-- **Key Features:** User profiles, chat system, seamless user interface.  
+Certifications & Experience
 
-### **2. On-Road Vehicle Breakdown Assistance Platform**  
-A web-based service helping users during vehicle breakdowns by connecting them with nearby mechanics and parts suppliers in real-time.  
-- **Tech Stack:** Flask, Python, MySQL, JavaScript  
-- **Key Features:** Live location tracking, parts search, and emergency requests.  
+React Developer Internships (4 × 6-month roles)  
+Delivered real-world applications, including eCommerce and user management platforms using React, Redux, REST APIs, and Firebase.
 
-### **3. Personal Portfolio Website**  
-A showcase of my skills, experience, and projects, designed with modern, responsive principles to highlight my work and provide insights.  
-- **Tech Stack:** React, HTML5, CSS3  
-- **Key Features:** Interactive UI, project galleries, and blog section.  
+Project Management Intern (Ongoing)  
+Gaining cross-functional experience in team coordination and project execution at an innovation-driven tech company.
 
-### **4. Mallu Bhais Kitchen**  
-A website for a restaurant, featuring sections for dosas, teas, juices, and more. Aimed at providing an easy-to-navigate experience to customers.  
-- **Tech Stack:** HTML, CSS, JavaScript, PHP  
-- **Key Features:** Menu sections, responsive design, easy navigation.
+Bachelor of Computer Applications (BCA)  
+Graduated in 2024 with a focus on software development, systems, and databases.
 
-### **5. Honey Dew (Nannari Sarbath Syrup)**  
-A product-based website for Honey Dew, featuring Nannari Sarbath Syrup. The site showcases the product’s unique qualities and usage.  
-- **Tech Stack:** HTML, CSS, JavaScript, PHP  
-- **Key Features:** Product details, ordering system, customer testimonials.
+Contact
 
-### **6. Online Shopping Platform**  
-A website for an online shopping platform, featuring easy navigation, product listings, and customer review systems.  
-- **Tech Stack:** React, PHP, MySQL  
-- **Key Features:** Product search, categories, responsive layout, shopping cart.
+Email: adhinshaji7@gmail.com  
+LinkedIn: linkedin.com/in/adhinshaji7
 
-### **7. Tuition Center Website**  
-A website designed for a tuition center, providing course details, schedules, and contact information.  
-- **Tech Stack:** HTML, CSS, JavaScript, PHP  
-- **Key Features:** Course offerings, class schedules, contact form.
+Vision
 
----
-
-## **My Motto**  
-*"Code, Create, Collaborate, Inspire!"*
-
----
-
+Build clean, purposeful, and scalable products that solve real problems and create meaningful user experiences.

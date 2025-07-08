@@ -1,65 +1,15 @@
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adhin-shaji) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adhinshaji7@gmail.com) 
 
-Hi, I am Adhin Shaji a frontend developer with a strong foundation in building scalable, high-performance web and mobile applications. My current work focuses on React, where I develop modern user interfaces, architect reusable components, and integrate complex APIs.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AdhinShaji7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AdhinShaji7&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdhinShaji7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-I'm also expanding my capabilities in backend development using Flask (Python), and working with Android (Java) to bridge web and mobile technologies. I believe in writing clean, maintainable code and building solutions that are both functional and intuitive.
+---
+[![](https://visitcount.itsvg.in/api?id=AdhinShaji7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Current Focus
-
-- Building production-ready frontend interfaces with React
-- Developing backend services using Flask and Python
-- Designing and delivering Android-based applications
-- Learning advanced architectural patterns and improving scalability
-
-Key Projects
-
-SKILL SWAPPING NETWORK – ANDROID APPLICATION  
-A mobile platform connecting users who want to exchange skills and collaborate on learning.  
-Tech Stack: Android, Java, MySQL  
-Key Features: User profiles, chat system, skill categories
-
-ON-ROAD VEHICLE BREAKDOWN ASSISTANCE PLATFORM  
-A web application that connects stranded users with nearby mechanics and suppliers in real-time.  
-Tech Stack: Flask, Python, MySQL, JavaScript  
-Key Features: Location tracking, live requests, inventory search
-
-HONEY DEW – PRODUCT WEBSITE FOR NANNARI SARBATH SYRUP  
-An informational and promotional website for a traditional herbal drink product.  
-Tech Stack: HTML, CSS, JavaScript, PHP  
-Key Features: Product information, ordering interface, customer testimonials
-
-E-COMMERCE WEB PLATFORM  
-A complete online shopping experience with categories, product filtering, and cart functionality.  
-Tech Stack: React, PHP, MySQL
-
-PERSONAL PORTFOLIO WEBSITE  
-A modern, responsive portfolio built to showcase my skills and past work.  
-Tech Stack: React, HTML, CSS
-
-Technical Stack
-
-Frontend: React, JavaScript, HTML5, CSS3  
-Backend: Flask, Python, PHP, MySQL  
-Mobile: Android (Java)  
-DevOps & Tools: Git, GitHub, Firebase, Linux, Bash, PowerShell  
-Additional: Adobe Photoshop, Shell Scripting, C++, C#
-
-Certifications & Experience
-
-React Developer Internships (4 × 6-month roles)  
-Delivered real-world applications, including eCommerce and user management platforms using React, Redux, REST APIs, and Firebase.
-
-Project Management Intern (Ongoing)  
-Gaining cross-functional experience in team coordination and project execution at an innovation-driven tech company.
-
-Bachelor of Computer Applications (BCA)  
-Graduated in 2024 with a focus on software development, systems, and databases.
-
-Contact
-
-Email: adhinshaji7@gmail.com  
-LinkedIn: linkedin.com/in/adhinshaji7
-
-Vision
-
-Build clean, purposeful, and scalable products that solve real problems and create meaningful user experiences.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
